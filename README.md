@@ -1,1 +1,1 @@
-# k8s-config
+# eks-example
